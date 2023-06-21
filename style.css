@@ -1,0 +1,13 @@
+#title{
+    display: flex;
+    justify-content: center;
+}
+#pagination{
+    display: flex;
+    margin-top: 10px;
+    font-size: 20px;
+}
+#navpage{
+    display: flex;
+    justify-content: center;
+}
